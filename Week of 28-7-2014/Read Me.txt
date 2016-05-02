@@ -1,0 +1,8 @@
+This data was collected with filters prepared by running different volumes of solution through 3 Whatman filters,
+ 2 on bottom and a nuclepore filter in the middle. The solution was prepared by mixing ~1 mL of 
+Speedball Super Black India Ink in ~500mL of water. According to the manufacturer, the india ink is 5.15% carbon
+ by mass. The filter unit was deemed flawed as some of the holes that did not correspond to the nuclepore filter leaked.
+ The labeling procedure is x_mL_y or x_mL_y.z where x is the number of mL of solution filtered. 
+If we made multiple samples with the same volume, y represents the sample number. 
+Otherwise y is 1. In the case where we took multiple spectra of the same filter, z is used to differentiate the spectra.
+ Otherwise there is no z component to the labeling.
